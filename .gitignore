@@ -1,0 +1,13 @@
+bin/
+obj/
+disk0/
+*.o
+*.d
+*.asm
+*.sym
+*.img
+*.log
+*.out
+*.pyc
+__pycache__/
+.vscode/
